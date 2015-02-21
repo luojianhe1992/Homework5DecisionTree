@@ -1,0 +1,1 @@
+I think that the decision tree will work for the music dataset. And for the education dataset, I also think that decision tree will work. Because in the music and education dataset, they attribute are all binary attribute. 

@@ -1,0 +1,23 @@
+Actually, I run the program of dataset music and education. The following are the results.
+
+This is the result for the music dataset
+[58+/42-]
+year = after1950: [19+/31-]
+| rock = no: [5+/31-]
+| rock = yes: [14+/0-]
+year = before1950: [39+/11-]
+| jazz = no: [1+/8-]
+| jazz = yes: [38+/3-]
+error(train) : 0.09
+error(test):0.1
+
+This is the result for the educatioin dataset
+[135+/65-]
+F = A: [119+/23-]
+F = notA: [16+/42-]
+| M2 = A: [13+/15-]
+| M2 = notA: [3+/27-]
+error(train) : 0.195
+error(test):0.23
+
+Therefore the music dataset is more accurate.
